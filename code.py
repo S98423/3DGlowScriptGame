@@ -4,9 +4,7 @@ GlowScript 2.7 VPython
 #
 # Building an interaction with 3D graphics using python
 #   Documentation: http://www.glowscript.org/docs/GlowScriptDocs/index.html
-#   Examples:      http://www.glowscript.org/#/user/GlowScriptDemos/folder/Examples/
 #
-# I thought I wanted to be a video game programmer before this project...I guess it's just not the right path for me.
 
 scene.title = "                                       Play Climate Change: A Reality"
 scene.caption = "Control the human - starting in the middle of the screen.<br>Change the color of the human by pressing any letter or arrow key on your keyboard.<br>Use the up, down, left and right arrows keys to navigate through trees, snowballs and lava rocks.<br>Win the game by capturing - colliding - with every alien."
